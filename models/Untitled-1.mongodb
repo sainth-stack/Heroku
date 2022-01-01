@@ -1,0 +1,18 @@
+// MongoDB Playground
+// To disable this template go to Settings | MongoDB | Use Default Template For Playground.
+// Make sure you are connected to enable completions and to be able to run a playground.
+// Use Ctrl+Space inside a snippet or a string literal to trigger completions.
+
+// Select the database to use.
+use('mern-ecommerce');
+
+// The drop() command destroys all data from a collection.
+// Make sure you run it against the correct database and collection.
+
+// Insert a few documents into the sales collection.
+db.products.insertMany([
+  { 'name': 'eraser', 'sold': 'sold 13', 'rs':'Rs.13' },
+  { 'name': 'notes', 'sold': 'sold 14', 'rs':'Rs.14' }, 
+]);
+
+

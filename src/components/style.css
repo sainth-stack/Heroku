@@ -1,0 +1,170 @@
+.selectitem{
+    
+ border: 2px solid grey;
+ width:300px;
+ padding: 5px;
+ margin-left: auto;
+margin-right: auto;
+text-align: left;
+background-color: white;
+padding: 10px;
+}
+.selectheading{
+    color:gray;
+    font-size: 20px;
+}
+.item{
+   padding:5px;
+   margin-top:5px;
+   width:280px;
+   height: 40px; ;
+}
+.input1{
+    border: none;
+    border-bottom: 2px solid grey;
+    margin: 5px 0px;
+    width: 280px;
+    height: 30px;
+    
+}
+.btn1{
+    padding:10px;
+    width: 100px;
+    margin-left:180px;
+    background-color: skyblue;
+}
+.container1{
+    background-color: white;
+    height:auto;
+    margin-top: 20px;
+    overflow: hidden;
+    
+
+
+}
+.card1{
+    float:right;
+    width:400px;
+    height:400px;
+    overflow: hidden;
+    margin: 10px;
+    position:fixed;
+    overflow: scroll;
+
+}
+.card2{
+   float:left;
+   width:400px;
+    height:400px;
+    margin: 10px;
+    overflow: scroll;
+
+
+}
+.card3{
+    float:right;
+   width:400px;
+    height:300px;
+    margin: 10px;
+    overflow: scroll;
+
+
+}
+.card4{
+
+    float:left;
+    width:400px;
+     height:300px;
+     margin: 10px;
+}
+.card5{
+    float:left;
+    margin-left:100px;
+    margin-top:30vh;
+    width:300px;
+
+
+}
+.heading{
+    text-align: left;
+}
+.input2{
+    border: none;
+    border-bottom: 2px solid grey;
+    margin: 5px 0px;
+    width: 200px;
+    height: 30px;
+    
+}
+.btn2{
+    padding:10px;
+    width: 100px;
+    background-color: skyblue;
+}
+
+    .ul1 {
+        list-style-type: none;
+        width:300px;
+        margin: 5px;
+        padding: 5px;
+        text-align:left;
+      border:1px solid gray;
+      }
+      .li2{
+          float:right;
+      display:inline;
+      overflow:hidden;
+      }
+      .li1{
+          display: inline;
+          position:relative;
+          overflow:hidden;
+          color:black;
+          
+      }
+      .ul2{
+          border:1px solid gray;
+          padding:10px;
+           overflow: hidden;
+           position: absolute;
+           top: 150px;  
+
+
+      }
+      .li3{
+        display: inline;
+        margin-right:120px;  
+
+    }
+    .li4{
+        float:right;
+
+        display:inline;
+        }
+       .ul3{     
+            list-style-type: none;
+            padding: 5px;
+            margin:5px;
+            text-align:left;
+          border:1px solid gray;
+          
+       }
+       .wrap {
+        transition: transform .5s cubic-bezier(.39, -.6, 1, -.6);
+      }
+      
+.ul5{
+    justify-content: center;
+    
+        list-style-type: none;
+        margin: 5px;
+        padding: 0;
+        border:1px solid grey;
+        width:100px;
+        display:block;
+        float:left;
+        overflow: hidden;
+      
+      
+}
+
